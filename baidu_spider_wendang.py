@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-@author: dj
-@contact: dj@itmojun.com
-@software: PyCharm
-@file: main.py
-@time: 2018/10/31 10:37
-"""
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
